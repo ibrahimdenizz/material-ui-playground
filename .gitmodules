@@ -1,0 +1,3 @@
+[submodule "YoutubePokedex"]
+	path = YoutubePokedex
+	url = git@github.com:ibrahimdenizz/YoutubePokedex.git
